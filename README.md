@@ -5,7 +5,8 @@ I`ve learned and used models:
 2. Decesion Tree,
 3. Random Forest,
 4. Linear and Logistic Regressor,
-5. MLP Classifier,
+5. MLP Classifier.
+
 I`v also used ensembles like Bagging and Boosting with different basic models.
 ## Scoring
 To evaluate models I`v used various metrics like:
